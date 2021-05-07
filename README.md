@@ -4,4 +4,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kentxxq&repo=kentxxq.github.io)](https://github.com/kentxxq/kentxxq.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kentxxq&kentxxq.Tools)](https://github.com/kentxxq/kentxxq.Tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kentxxq&repo=kentxxq.Tools)](https://github.com/kentxxq/kentxxq.Tools)
