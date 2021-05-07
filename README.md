@@ -5,3 +5,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kentxxq&repo=kentxxq.github.io)](https://github.com/kentxxq/kentxxq.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kentxxq&repo=kentxxq.Tools)](https://github.com/kentxxq/kentxxq.Tools)
+
+
+<a href="https://github.com/kentxxq/kentxxq.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kentxxq&repo=kentxxq.github.io" />
+</a>
+<a href="https://github.com/kentxxq/kentxxq.Tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kentxxq&repo=kentxxq.Tools" />
+</a>
